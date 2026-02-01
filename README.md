@@ -17,6 +17,9 @@ It uses natural language processing (NLP) techniques with **TF-IDF vectorization
 
 ---
 
+## Dataset - SMS Spam Collection Dataset
+👉 https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 ## 📌 Features
 
 - Text preprocessing with NLTK  
